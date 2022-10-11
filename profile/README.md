@@ -1,7 +1,7 @@
 # [OSSTSI]
 
 <a href="https://github.com/osstsi/osstsi/">
-  <img src="profile/institute.png" alt="Institute Banner" />
+  <img src="profile/osstsi.png" alt="Institute Banner" />
 </a>
 
 ### Who are we?
