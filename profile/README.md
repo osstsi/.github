@@ -18,7 +18,7 @@ We are a donor-supported 501(c)(3) nonprofit company that help's people and ente
 
 ### Become a supporter
 
-*Theres 2 basic ways to contribute*
+*"Theres 2 basic ways to contribute"*
 
 💸 Donations are the way osstsi devs, teacher's, etc... can always be making much more projects for helping the open source community.
 
