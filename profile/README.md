@@ -10,7 +10,7 @@
 
 :computer: We are a institute of technology/inovations located on the internet (and brazil...) to help open source technologies, future projects/programmers, tech companies and much more. We came to make the future of developement and technology more easy, fast and confortable.
 
-We are a donor-supported 501(c)(3) nonprofit company that help's people and enterprises to code/develop more easy and find/teach new professionals.
+We are a company that help's people and enterprises to code/develop more easy and find/teach new professionals.
 
 ### Why open source?
 
