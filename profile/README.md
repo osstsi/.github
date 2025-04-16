@@ -1,5 +1,5 @@
 <a href="https://github.com/osstsi">
-  <img src="profile/osstsi.png" alt="Banner" />
+  <img src="institute.png" alt="Banner"/>
 </a>
 
 A community and institute of technology that creates and manage open source stuff, pass the torch, help founders and change things.
